@@ -1,0 +1,10 @@
+site_name: 青年外语社 Youth Language Organization
+theme:
+    name: material
+    language: zh
+    logo: images/logo.png
+nav:
+    - 首页: index.md
+    - 愿景与纲领: define.md
+    - 加入我们: join.md
+    - 资源: resources.md
