@@ -1,8 +1,11 @@
-site_name: 青年外语社 Youth Language Organization
+site_name: 青年外语社
 theme:
     name: material
     language: zh
-    logo: images/logo.png
+    logo: images/logo.jpg
+    palette:
+        primary: white
+        accent: blue
 nav:
     - 首页: index.md
     - 愿景与纲领: define.md
