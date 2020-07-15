@@ -3,6 +3,7 @@ theme:
     name: material
     language: zh
     logo: images/logo.jpg
+    font: false
     palette:
         primary: white
         accent: blue
